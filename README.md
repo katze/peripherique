@@ -1,6 +1,18 @@
 # Partition urbaine
 
 
+Démo :
+
+
+https://user-images.githubusercontent.com/611827/178295552-3f6ce58c-a2d7-4b99-9de8-b6ba2e63fd8e.mp4
+
+
+Enregistrement du périph Lyonnais le 11/07/2022
+Au début les 8 pistes/instruments sont mis en sourdine puis activées au fur et à mesure 
+
+
+
+
 Installation :
 
 1. Cloner le repository
