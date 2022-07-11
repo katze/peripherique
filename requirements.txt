@@ -1,0 +1,9 @@
+vpype[all]
+uvloop
+opencv-python
+pillow
+lxml
+jupyter
+matplotlib
+cython
+pygame
